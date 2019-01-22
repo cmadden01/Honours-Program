@@ -1,0 +1,8 @@
+﻿  GlewTools.cpp
+  ImageProcessor.cpp
+c:\users\chloe\desktop\honours framework\imageprocessor\honours-program\honours program\imageprocessor\imageprocessor.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chloe\desktop\honours framework\imageprocessor\honours-program\honours program\imageprocessor\imageprocessor.cpp(126): warning C4305: '+=': truncation from 'double' to 'float'
+  TopDownRenderer.cpp
+c:\users\chloe\desktop\honours framework\imageprocessor\honours-program\honours program\imageprocessor\topdownrenderer.cpp(40): warning C4267: 'argument': conversion from 'size_t' to 'const GLuint', possible loss of data
+  Generating Code...
+  ImageProcessor.vcxproj -> C:\Users\Chloe\Desktop\Honours Framework\ImageProcessor\Honours-Program\Honours Program\x64\Debug\ImageProcessor.exe
